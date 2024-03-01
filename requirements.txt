@@ -1,0 +1,4 @@
+faster-whisper==1.0.0
+openai==0.28.0
+streamlit==1.30.0
+torch==2.2.1
